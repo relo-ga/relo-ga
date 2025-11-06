@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ClubPetCare**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NextJS / NestJS**
 
 - 📫 How to reach me **relo.gallardo@gmail.com**
 
